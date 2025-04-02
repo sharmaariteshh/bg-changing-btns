@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:rgb(76, 71, 71);
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+}
+
+button{
+    font-size: 30px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+#redd{
+    background-color: red;
+}
+#redd:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+
+#yell:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+
+#ora:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+
+
+#vio:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+
+
+#gre:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+#blu:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+
+
+
+
+
+
+#ora{
+    background-color: orange;
+}
+#yell{
+    background-color: yellow;
+}
+#gre{
+    background-color: green;
+}
+#blu{
+    background-color: blue;
+}
+#vio{
+    background-color: violet;
+}
+
